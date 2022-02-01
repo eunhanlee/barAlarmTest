@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">barAlarmTest</string>
+    <string name="main_title">alarm notification test</string>
+    <string name="channel_id">foodLightAlarmChannel</string>
+    <string name="channel_name">foodLightAlarm</string>
+    <string name="channel_description">Alarm for foodLight</string>
+    <string name="alarm_id">5335</string>
+    <string name="alarm_title">food Light</string>
+    <string name="foodlight_start_alarm_message">food allowed</string>
+    <string name="foodlight_end_alarm_message">food not allowed</string>
+</resources>
