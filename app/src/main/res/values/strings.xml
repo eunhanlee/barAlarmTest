@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">barAlarmTest</string>
     <string name="main_title">alarm notification test</string>
+    <string name="btn_title">Alarm Button</string>
     <string name="channel_id">foodLightAlarmChannel</string>
     <string name="channel_name">foodLightAlarm</string>
     <string name="channel_description">Alarm for foodLight</string>
